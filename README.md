@@ -1,2 +1,3 @@
 # GIS-Projekt_UTM33
-Projektordner als Vorlage zur Verwendung mit Tachy2GIS_arch. - Das Vorlagenprojekt in diesem developmen-branch ist für die Tachy2GIS_arch-Version des development-branch im Tachy2GIS_arch repository in Verbindung mit dem Plugin Tachy2GIS von https://github.com/gbv/Tachy2GIS vorbereitet! - Die QGIS-Projektdatei sowie die Shapefiles sind auf das CRS ETRS89_UTM33 (EPSG 25833) eingestellt. Zum Starten die QGIS-Projektdatei im Ordner \Projekt öffnen und ggf. das Startmakro zulassen.
+Testdatensatz für die Entwicklung der Version 2.x von Tachy2GIS_arch (develop-branch im Repository "Tachy2GIS_arch"). Der Datensatz enthält Daten einer realen Grabung, die so ergänzt wurden dass für jeden Eintrag im Vokabular mindestens eine Geometrie enthalten ist. Das Vokabular entspricht dem neuen Vokabular des LfA Sachsen.
+Der Ordner \Rasterdaten enthält Profilfotos für Tests der Profilentzerrung. 
