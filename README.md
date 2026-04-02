@@ -1,3 +1,14 @@
-# GIS-Projekt_UTM33
-Testdatensatz für die Entwicklung der Version 2.x von Tachy2GIS_arch (develop-branch im Repository "Tachy2GIS_arch"). Der Datensatz enthält Daten einer realen Grabung, die so ergänzt wurden dass für jeden Eintrag im Vokabular mindestens eine Geometrie enthalten ist. Das Vokabular entspricht dem neuen Vokabular des LfA Sachsen.
-Der Ordner \Rasterdaten enthält Profilfotos für Tests der Profilentzerrung. 
+# GIS-Projekt\_UTM33
+
+#### für TachyGIS\_arch Version 2
+
+#### Landesamt für Archäologie Sachsen
+
+Diese Projektvorlage ist auf die Nutzung mit TachyGIS\_arch abgestimmt.
+
+Hier sind die Geodatenlayer im Koordinatenreferenzsystem ETRS89\_UTM33 angelegt.
+
+Die hier benutzten Vokabulare orientieren sich an den Anforderungen des Landesamts für Archäologie Sachsen.
+
+
+
